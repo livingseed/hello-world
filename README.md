@@ -1,2 +1,2 @@
 # hello-world
-A test
+This is a new way of version control.
